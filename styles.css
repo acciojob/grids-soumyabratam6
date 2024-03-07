@@ -2,7 +2,7 @@
 /* Your CSS Code here. */
 .container{
 	border:5px solid rgb(4, 255, 4);
-	/* width:600 */
+	width:600px;
 	background-color:rgb(41, 0, 0);
 }
 .row{
